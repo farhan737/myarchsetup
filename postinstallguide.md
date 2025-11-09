@@ -30,5 +30,12 @@ uncomment and save
 [multilib]
 Include = /etc/pacman.d/mirrorlist
 ```
-
-
+### install `github-cli`
+```bash
+yay -S github-cli
+```
+### install `eclipse-j2ee` and `spring-tool-suite`
+```bash
+yay -S eclipse-installer
+yay -S spring-tools-for-eclipse
+```
