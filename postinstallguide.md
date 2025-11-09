@@ -30,3 +30,5 @@ uncomment and save
 [multilib]
 Include = /etc/pacman.d/mirrorlist
 ```
+
+
